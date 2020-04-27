@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.log
+*.cache
+**/AutoBuild/bin/
+**/AutoBuild/obj/
